@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html lang ="pt-br">
+ 
+<head> 
+    <meta charset="UTF-8">
+    <meta name="Viewport"   content="widht= device- width, initial-scale= 1.0">
+    <title>Criando um exemplo real</title>
+    <link rel="stylesheet" href="style.css">
+
+ </head> 
+    
+    
+    <body> 
+        <main>
+              <h1>Site de exemplo</h1>
+              <h2>Título 1</h2>
+
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore fugiat vitae reprehenderit assumenda voluptate dolorum alias deserunt itaque iure corporis, neque modi sunt amet distinctio exercitationem quia fugit facilis nihil.</p>
+
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae reprehenderit itaque amet nulla, labore assumenda quisquam sed quam vel harum blanditiis consectetur maxime dolores accusantium earum sequi quasi id temporibus?</p>
+
+              <h2>Título 2</h2>
+
+              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum aperiam voluptate fugiat quam iure vitae culpa, voluptatem expedita numquam excepturi quasi eveniet sit ab accusamus. Nisi dolor dignissimos ducimus expedita.</p>
+
+              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores cum ducimus voluptate, autem est ullam aperiam? Quis, rem consectetur corporis natus delectus exercitationem a laboriosam quo, illo praesentium temporibus illum.</p>
+
+              <h2>Título 3</h2>
+
+              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat quibusdam nemo minus itaque, id corporis voluptate magni totam illum aut, minima eum unde repellendus accusantium recusandae dignissimos assumenda reiciendis architecto?</p>
+
+              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore vitae sint libero iure perferendis ea sequi odit mollitia esse non at illo officia voluptates quibusdam debitis accusamus, tempore saepe vero!</p>
+
+
+        </main>
+        
+
+    </body>
+     
+
+
+</html>

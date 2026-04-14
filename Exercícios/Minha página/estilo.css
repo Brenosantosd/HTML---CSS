@@ -1,0 +1,133 @@
+@charset "UTF-8";
+
+
+@font-face { font-family: 'fonte principal';
+    src: url('Gabarito/Gabarito-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+}
+
+
+
+
+:root { 
+
+--cor0:    #04B2D9;
+--cor1:    #CEECF2;
+--cor2:    #04C4D9;
+--cor3:    #15BFBF;
+--cor4:    #D9D0C7;
+}
+
+
+
+body{ background-image: linear-gradient(to bottom,#CEECF2, #D9D0C7 );
+
+    font-family: 'fonte principal';
+    margin: 0;
+    padding: 0;
+   
+
+}
+
+header > h1 { font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-image: linear-gradient(to bottom,#04B2D9,#15BFBF);
+            color: white;
+            margin :0;
+            padding: 10px 0;
+            width: 100%; 
+            margin:  auto; 
+            text-align: center;
+            box-shadow: 2px 2px 5px black ; }
+        
+
+
+div { text-align: center;
+filter: drop-shadow(0px 4px 8px rgba(0,0,0,0.5));}
+
+
+
+ p {background-color: white;
+color: #000000;
+width: 400px; 
+margin: auto;
+border-radius: 5px;
+margin-bottom: 15px;
+text-align: justify;
+text-indent: 30px ;
+font-size: 17px;
+padding-left: 5px;   
+padding-right: 5px;           
+padding-right: 5px;
+padding-bottom: 5px; }
+
+
+
+section > h2 { background-color:#04C4D9;
+color: rgb(0, 0, 0);
+text-align: center;
+ width: 400px;
+margin: auto; 
+padding-bottom: 5px; 
+padding-left: 5px;
+padding-right: 5px;
+padding-right: 5px;
+border-radius: 8px;
+box-shadow: 2px 2px 5px #000000;}
+
+aside > h2 { background-color: #04C4D9;
+color: rgb(0, 0, 0);
+text-align: center;
+width: 400px;
+padding-bottom: 5px; 
+padding-left: 5px;
+padding-right: 5px;
+padding-right: 5px;
+margin: auto;
+border-radius: 8px;
+box-shadow: 2px 2px 5px black;}
+
+
+ul {
+    display: table; /* Faz a lista ocupar apenas a largura necessária */
+    margin: 0 auto; /* Centraliza o bloco da lista na página */
+    text-align: left; /* Alinha os pontos e textos verticalmente à esquerda */
+    padding: 10px;
+    background-color: white; /* Se quiser o fundo branco em toda a lista */
+    border-radius: 8px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    
+}
+
+li {
+    margin-bottom: 10px; /* Espaço entre os itens */
+    list-style-position: inside; /* Garante que o ponto fique dentro da área branca */
+   
+}
+
+
+
+footer {background-color:#04B2D9;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    box-shadow: 2px 2px 10px black;
+    
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
